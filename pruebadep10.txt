@@ -1,4 +1,8 @@
 Hola mundo
 adios mundo
 hola mundo
+<<<<<<< HEAD
 Estoy confundido
+=======
+mundo perdido
+>>>>>>> be79c18ce9d38480b325c638b0e6bf33767053a0
