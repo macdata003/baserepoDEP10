@@ -3,3 +3,9 @@ adios mundo
 hola mundo
 mundo perdido
 saludos
+<<<<<<< HEAD
+
+Modificando el archivo del profe Jtorres
+=======
+bye
+>>>>>>> d944ff9f743cbb62b207e55a1ee38c2c6b96b099
