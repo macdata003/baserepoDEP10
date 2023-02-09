@@ -12,3 +12,4 @@ Para este repositorio nosotros debemos tener conocimiento de:
 MAC
 
 Este es un cambio realizado por egregoryp para la session 2 de Git
+#ajuste usuario antes de fortunepbi a egregoryp
