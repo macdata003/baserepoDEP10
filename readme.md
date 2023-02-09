@@ -6,6 +6,7 @@ Este es mi repositorio personal donde aprendo como usar los recursos para GIT gr
 
 Para este repositorio nosotros debemos tener conocimiento de:
 - Lenguaje : Python
+- nivel : Basico
 
 ### License
 MAC
