@@ -10,3 +10,5 @@ Para este repositorio nosotros debemos tener conocimiento de:
 
 ### License
 MAC
+
+Este es un cambio realizado por egregoryp para la session 2 de Git
